@@ -43,8 +43,8 @@ with data_set_description:
     Berisi output dari klasifikasi yaitu berupa kelas A atau B
     """)
    
-    st.write("###### Source Code Aplikasi ada di Github anda bisa acces di link : ")
-    st.write("###### Untuk kontak bisa menghubungi nomor wa berikut '085230502136 ")
+    st.write("###### Source Code Aplikasi ada di Github anda bisa acces di link : https://github.com/Feb11F/aplikasi-penentuan-kualitas-mangga")
+    st.write("###### Untuk kontak bisa menghubungi nomor wa berikut '085230502136' ")
 
 with upload_data:
     # uploaded_files = st.file_uploader("Upload file CSV", accept_multiple_files=True)
