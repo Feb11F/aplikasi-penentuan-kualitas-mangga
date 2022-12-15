@@ -212,7 +212,7 @@ with implementation:
     with st.form("my_form"):
         st.subheader("Implementasi")
         Weight = st.number_input('Masukkan Berat Mangga')
-        Length = st.number_input('Masukkan Panjnag Mangga')
+        Length = st.number_input('Masukkan Panjang Mangga')
         circumference = st.number_input('Masukkan Lingkar Mangga')
         model = st.selectbox('Pilihlah model yang akan anda gunakan untuk melakukan prediksi?',
                 ('Gaussian Naive Bayes', 'K-NN', 'Decision Tree'))
